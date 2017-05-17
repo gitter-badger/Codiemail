@@ -1,5 +1,7 @@
 # Codiemail
 
+[![Join the chat at https://gitter.im/CodieMakers/Codiemail](https://badges.gitter.im/CodieMakers/Codiemail.svg)](https://gitter.im/CodieMakers/Codiemail?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
 
 ## Development server
